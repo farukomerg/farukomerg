@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ömer Faruk Güler
-- 👀Ben ISUBU  Bilgisayar Mühendisliği 1. Sınıf öğrencisiyim.
+- 👀Ben KOU Bilişim Sistemleri Mühendisliği 2. sınıf öğrencisiyim.
 - 🌱 Güncel teknoloji ve programlama dillerini takip etmek ve projeler oluşturma için bu sayfayı oluşturdum.
 
 <!---
